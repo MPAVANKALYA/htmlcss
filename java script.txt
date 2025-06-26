@@ -1,0 +1,2 @@
+java script :js is the client side programming language and it mainly used for  dynamic functionality 
+
